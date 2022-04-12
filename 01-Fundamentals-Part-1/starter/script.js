@@ -96,6 +96,6 @@ switch (day) {
 }
 */
 
-const age = 23;
+// const age = 23;
 
-age >= 18 ? console.log('i like to drink wine') : console.log('give me some water');
+// age >= 18 ? console.log('i like to drink wine') : console.log('give me some water');
